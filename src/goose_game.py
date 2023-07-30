@@ -5,6 +5,9 @@ from pygame.constants import QUIT, K_DOWN, K_UP, K_LEFT, K_RIGHT, K_SPACE, K_s, 
 import random
 import os
 
+# import sys
+# sys.path.append(r'C:\Users\38066\Documents\GitHub\Jarvis-assastant')
+
 def play():
 
     pygame.init()
