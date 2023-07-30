@@ -128,7 +128,7 @@ def main():
     #create the new exempl ConsoleUI
     console_ui = ConsoleUI()
 
-    keyboard.add_hotkey('esc', lambda: end_work())
+    # keyboard.add_hotkey('esc', lambda: end_work())
 
     global Use_Open_Ai
     while True:
